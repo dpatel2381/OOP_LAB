@@ -18,7 +18,6 @@ public class MiniBank_prac1
         BankInfo bank = new BankInfo("MiniBank", "Main Branch"); 
         System.out.println("=================================="); 
 
- 
         System.out.println(" Welcome to " + bank.name() + " - " + bank.branch()); 
         System.out.println("=================================="); 
  
